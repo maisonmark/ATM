@@ -12,5 +12,12 @@ This program is a short and begginner-level ATM bank in which a user is able to 
 
 4. They are also able to check the "About us" selection in the menu, where informative facts about the bank rest.
 
+## Contribution
+Everyone is free to contribute to the coding, it is a public repository after all.
+Updated comments would be preferred as well as feedback and criticisms: it is yours!
+
+Otherwise, if any major and important information are to be included, please open an issue to what
+you would like to develop!
+
 ## License
 [APACHE LICENSE 2.0] (https://www.apache.org/licenses/LICENSE-2.0)
